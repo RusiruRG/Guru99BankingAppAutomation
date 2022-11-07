@@ -1,0 +1,8 @@
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/pageObjects/LoginPage.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/utilities/ReadConfig.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/testCases/BaseClass.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/testCases/AddCustomerTest.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/testCases/LoginTest.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/testCases/LoginDDT.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/pageObjects/AddCustomer.java
+/home/sameera/eclipse-workspace/Selenium_Bank_demo_v4/src/test/java/bank_demo/utilities/XLUtils.java
